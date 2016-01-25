@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "BBTask-hicool”
+  s.name         = "BBTask-hicool"
   s.version      = "1.0"
   s.summary      = "BBTask-hicool."
 
@@ -25,10 +25,10 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                   This is a library for BBTask-hicool.
+                   This is a library for BBTask.
                     DESC
 
-  s.homepage     = "http://github.com/jindegege/BBTask-hicool"
+  s.homepage     = "http://github.com/jindegege/BBTask"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/jindegege/BBTask-hicool.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/jindegege/BBTask.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
